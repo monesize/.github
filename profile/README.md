@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-Welcome to the Monesize repository! Monesize is dedicated to revolutionizing financial management with cutting-edge technology. Our mission is to empower individuals and businesses by providing robust tools for tracking and optimizing their financial health.
+Welcome to the Monesize organization on Github! Monesize is dedicated to revolutionizing financial management with cutting-edge technology. Our mission is to empower individuals and businesses by providing robust tools for tracking and optimizing their financial health.
 
 ## About Us
 
@@ -34,11 +34,6 @@ Here are some resources to help you get started:
 - **Documentation**: Check out our comprehensive [docs](docs/) for API references and usage guides.
 - **API Reference**: Find details about our API endpoints in the [API documentation](docs/api.md).
 - **Installation Guide**: Follow the [setup instructions](docs/installation.md) to get Monesize up and running on your machine.
-
-## Fun Facts
-
-- **Breakfast of Champions**: Our team loves starting the day with a hearty breakfast of fruits, oats, and coffee.
-- **Tech Stack**: We use a combination of React, Express.js, PostgreSQL, and various AI frameworks to build our platform.
 
 ## Contact Us
 
