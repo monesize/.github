@@ -20,7 +20,7 @@ Core brings financial and operational workflows into a connected system, includi
 
 ### Monesize Desk
 
-**Customer Support + Service Operations**
+**Customer Support + Service Desk Management**
 
 Monesize Desk provides organizations with a shared workspace for managing customer support and service operations.
 
@@ -40,7 +40,7 @@ It brings prospect management, segmentation, personalized outbound campaigns, ac
 
 Engage is designed to turn sales activity from an individual process into an institutional capability.
 
-**Coming soon.**
+[Learn more](https://engage.monesize.com)
 
 ---
 
@@ -53,6 +53,8 @@ Monesize Kompro is Monesize's compliance and trust platform.
 It provides organizations with a structured environment for managing compliance frameworks, controls, policies, evidence, and organizational trust.
 
 Kompro is being incorporated into the Monesize product ecosystem as a Monesize-owned product.
+
+[Learn more](https://kompro.monesize.com)
 
 ---
 
@@ -119,6 +121,7 @@ Individual repositories contain their own technical documentation, development i
 ## Company
 
 **Monesize Limited**
+
 United Kingdom
 
 [Website](https://monesize.com) · [LinkedIn](https://www.linkedin.com/company/monesize/)
