@@ -1,48 +1,128 @@
 # Monesize
 
-## Hi there 👋
+Monesize is a software company building products that help organizations run, operate, sell, support, and manage their businesses.
 
-Welcome to the Monesize organization on Github! Monesize is dedicated to revolutionizing financial management with cutting-edge technology. Our mission is to empower individuals and businesses by providing robust tools for tracking and optimizing their financial health.
+Our products are designed to work independently while also forming part of a broader Monesize ecosystem.
 
-## About Us
+## Products
 
-Monesize Technologies Limited is at the forefront of financial management solutions. We are developing Monesize, a comprehensive platform that helps users track their expenses, income, and overall financial performance with real-time insights and AI-driven recommendations. Our solution is tailored for small and medium-sized enterprises (SMEs), startups, financially driven individuals, and financial professionals.
+### Monesize Core
 
-### What We Do
+**Finance + Operations**
 
-- **Track Finances**: Monitor expenses and income with precision.
-- **AI Insights**: Receive personalized financial recommendations and predictions.
-- **Budget Management**: Set and manage budgets effectively.
-- **Multi-Currency Support**: Handle transactions in various currencies.
-- **Comprehensive Reporting**: Generate detailed financial reports.
+Monesize Core is a finance + operations platform for organizations that need their operational activity and financial records to work together.
 
-## Contribution Guidelines
+Core brings financial and operational workflows into a connected system, including accounting, sales, purchasing, inventory, expenses, employees, reporting, and other business processes.
 
-We welcome contributions from the team! Here’s how you can get involved:
+[Learn more](https://monesize.com)
 
-1. **Clone the Repo**: Start by cloning the repository to your local machine.
-2. **Create a Branch**: Create a new branch for your changes.
-3. **Make Changes**: Implement your features or bug fixes.
-4. **Submit a Pull Request**: Open a pull request with a detailed description of your changes.
+---
 
-Please ensure that your code adheres to our coding standards and includes appropriate tests. For detailed guidelines, refer to our [CONTRIBUTING.md](CONTRIBUTING.md).
+### Monesize Desk
 
-## Useful Resources
+**Customer Support + Service Operations**
 
-Here are some resources to help you get started:
+Monesize Desk provides organizations with a shared workspace for managing customer support and service operations.
 
-- **Documentation**: Check out our comprehensive [docs](docs/) for API references and usage guides.
-- **API Reference**: Find details about our API endpoints in the [API documentation](docs/api.md).
-- **Installation Guide**: Follow the [setup instructions](docs/installation.md) to get Monesize up and running on your machine.
+It centralizes customer interactions, support workflows, and service history, giving teams the tools to work collaboratively and maintain organizational context.
 
-## Contact Us
+[Learn more](https://desk.monesize.com)
 
-Have questions or need help? Reach out to us:
+---
 
-- **Email**: [support@monesize.com](mailto:support@monesize.com)
-- **Twitter**: [@Monesize](https://twitter.com/Monesize)
-- **LinkedIn**: [Monesize](https://www.linkedin.com/company/monesize)
+### Monesize Engage
 
-## License
+**Sales + CRM**
 
-This project is licensed under the [MIT License](LICENSE).
+Monesize Engage is a free, multitenant sales engine and CRM for organizations.
+
+It brings prospect management, segmentation, personalized outbound campaigns, activity tracking, follow-ups, pipeline management, and team collaboration into one shared workspace.
+
+Engage is designed to turn sales activity from an individual process into an institutional capability.
+
+**Coming soon.**
+
+---
+
+### Monesize Kompro
+
+**Compliance + Trust**
+
+Monesize Kompro is Monesize's compliance and trust platform.
+
+It provides organizations with a structured environment for managing compliance frameworks, controls, policies, evidence, and organizational trust.
+
+Kompro is being incorporated into the Monesize product ecosystem as a Monesize-owned product.
+
+---
+
+## Monesize Gateway
+
+Monesize Gateway provides identity and organizational infrastructure for the Monesize ecosystem.
+
+Gateway is designed to allow organizations to establish and maintain their identity across Monesize products while preserving tenant isolation and authorization.
+
+---
+
+## Future Products
+
+### Monesize MTD
+
+**Making Tax Digital for Income Tax**
+
+Monesize MTD is a future product direction focused on the UK's Making Tax Digital requirements for Income Tax Self Assessment (ITSA).
+
+The product is intended to serve self-employed individuals and landlords who will be required to comply with MTD for Income Tax.
+
+**Roadmap.**
+
+---
+
+## The Monesize Ecosystem
+
+Monesize products are designed to work independently while sharing common identity, infrastructure, and organizational context.
+
+Organizations can use the products that fit their needs while gaining the ability to connect their Monesize services as the ecosystem develops.
+
+The broader ecosystem includes:
+
+- **Monesize Core** — Finance + Operations
+- **Monesize Desk** — Customer Support + Service Operations
+- **Monesize Engage** — Sales + CRM
+- **Monesize Kompro** — Compliance + Trust
+- **Monesize Gateway** — Identity and ecosystem infrastructure
+- **Monesize MTD** — Future UK MTD/ITSA product
+
+---
+
+## Our Approach
+
+Monesize products are built around a few principles:
+
+- **Organization over individuals** — Business information should remain with the organization rather than becoming trapped in individual tools or employees.
+- **Connected operations** — Business activities should connect naturally to the systems and records they affect.
+- **Independent products** — Each Monesize product should be useful on its own.
+- **Ecosystem interoperability** — Products should work together where organizations need them to.
+- **Security and privacy by design** — Organizational and personal data should be handled deliberately and securely.
+- **Practical software** — Powerful systems should remain understandable and usable.
+
+---
+
+## Engineering
+
+The Monesize GitHub organization contains the source code, infrastructure, documentation, and supporting projects used to build and operate the Monesize ecosystem.
+
+Individual repositories contain their own technical documentation, development instructions, and contribution guidelines.
+
+---
+
+## Company
+
+**Monesize Limited**
+United Kingdom
+
+[Website](https://monesize.com) · [LinkedIn](https://www.linkedin.com/company/monesize/)
+
+---
+
+© Monesize Limited
